@@ -237,14 +237,14 @@ For support and questions:
 
 ## 🔮 Roadmap
 
-- [ ] Advanced AI models integration
-- [ ] Real-time collaboration features
-- [ ] API endpoints for external integration
-- [ ] Advanced analytics and reporting
-- [ ] Multi-language support
-- [ ] Database integration options
-- [ ] Workflow automation
-- [ ] Advanced visualization tools
+- Advanced AI models integration
+- Real-time collaboration features
+- API endpoints for external integration
+- Advanced analytics and reporting
+-  Multi-language support
+- Database integration options
+- Workflow automation
+- Advanced visualization tools
 
 ---
 
